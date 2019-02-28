@@ -1,3 +1,4 @@
 # PSDsLevel1
-Learning HTML and CSS
-new changes are here. 
+Learning HTML and CSS new changes are here. 
+
+MY first PSD slicing
