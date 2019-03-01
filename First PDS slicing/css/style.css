@@ -2,13 +2,13 @@ body { margin: 0; padding: 0; font-family: Georgia, sans-serif; }
 
 .shall { width: 965px; margin: 107px 150px 0; }
 
-.section,h2, h3, h4, h5 { margin: 16px 0; }
+.section_main, .section_content, h2, h3, h4, h5 { margin: 16px 0; }
 
-.section h1 { color:#b92929; font-size: 50px; margin: 28px 0; }
+.section_main h1 { color:#b92929; font-size: 50px; margin: 28px 0; }
 
-.section h2 { color: #2b6f17; font-size: 30px; }
-.section h2 a { color: #1659b3; }
+.section_content h2 { color: #2b6f17; font-size: 30px; }
+.section_content h2 a { color: #1659b3; }
 
-.section p { font-size:15px; }
+.section_content p { font-size:15px; }
 
-.section p a { color: #1659b3; }
+.section_content p a { color: #1659b3; }
