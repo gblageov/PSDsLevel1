@@ -18,3 +18,7 @@ p { line-height: 24px; }
 .section_content p { font-size:15px; }
 
 .section_content p a { color: #1659b3; }
+
+.section_footer {
+	text-align: justify;
+}
