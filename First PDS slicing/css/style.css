@@ -19,4 +19,15 @@ p { line-height: 24px; }
 
 .section_content p a { color: #1659b3; }
 
-.section_footer { text-align: center; }
+.section_content, ul, ol { margin-left:20px; }
+
+.section_content .tik-list { list-style: none; }
+.section_content .tik-list li { text-indent:-5px; }
+.section_content .tik-list li::before { content: "-"; text-indent: -5px; }
+
+.dash-lsit { list-style: none; }
+
+.section_footer { text-align: center; font-size:15px; }
+
+.section_footer span p { font-style: italic; margin-top:20px;}
+
