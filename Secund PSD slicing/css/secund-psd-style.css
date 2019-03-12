@@ -1,6 +1,6 @@
 * { margin: 0; padding: 0; }
 
-body {box-sizing: border-box; display: flex; font-family: Trebuchet MS, sans-serif; }
+body {box-sizing: border-box; font-family: Trebuchet MS, sans-serif; }
 
 .shell  {max-width: 980px; margin: 0 auto; }
 
@@ -8,7 +8,7 @@ header { margin-bottom: 25px; }
 
 .title { font-size:40px; margin-bottom: 20px; }
 
-.sub-title {font-family: Georgia, Trebuchet MS, sans-serif; font-style: italic; font-size: 22px; color: #a35400; margin-bottom: 30px; }
+.sub-title {font-family: Georgia, Trebuchet MS, sans-serif; font-style: italic; font-size: 22px; line-height: 28px; color: #a35400; margin-bottom: 30px; }
 
 p { font-size: 14px;  margin-bottom: 30px; line-height: 20px; }
 
@@ -16,7 +16,8 @@ h3 { font-size: 20px; margin-bottom: 20px; }
 
 a {text-decoration: none; color: #008a85;  }
 
-.shell--content { max-width: 700px; }
+.shell--content { max-width: 665px; margin-right: 35px;}
 
 .saidbar { display: flex; justify-content: flex-end; float: right; }
 
+.section_content img { display: flex; justify-content: flex-end; float: right; margin: 0 0 10px 70px;}
