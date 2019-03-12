@@ -19,9 +19,9 @@ p { line-height: 24px; }
 
 .section_content p a { color: #1659b3; }
 
-.section_content ul ol { margin-left:20px; }
+.section_content, ul, ol { padding-left:20px; }
 
-.section_content, .dash-list, .tik-list { list-style: none;  }
+.section_content-list, .dash-list, .tik-list { list-style: none; padding-left: 0;  }
 
 .dash-list ul { font-style: italic; }
 .section_content .dash-list li { text-indent:-5px; }
@@ -32,6 +32,7 @@ p { line-height: 24px; }
 .section_content .tik-list li::before { content: ">"; text-indent: -5px; }
 
 .section_footer { text-align: center; font-size:15px; }
+.section_footer h6 { margin-bottom: 10px; }
 
 .section_footer span p { font-style: italic; margin-top:20px;}
 .
