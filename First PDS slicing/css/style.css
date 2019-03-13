@@ -17,7 +17,6 @@ body { margin: 0; padding: 0; font-family: Georgia, sans-serif; }
 
 .section_content p a { color: #1659b3; }
 
-<<<<<<< HEAD
 p { line-height: 24px; }
 
 ul { margin-left: 15px; padding-left:15px; }
@@ -35,21 +34,3 @@ ul.tick { list-style-type: none; }
 ul.tick li { text-indent: -5px; }
 
 ul.tick li:before { content: ">"; text-indent: -5px; }
-=======
-.section_content ul ol { margin-left:20px; }
-
-.section_content, .dash-list, .tik-list { list-style: none;  }
-
-.dash-list ul { font-style: italic; }
-.section_content .dash-list li { text-indent:-5px; }
-.section_content .dash-list li::before { content: "-"; text-indent: -5px; }
-
-.section_content .tik-list { margin-left:20px; font-weight: 700; }
-.section_content .tik-list li { text-indent:-5px; }
-.section_content .tik-list li::before { content: ">"; text-indent: -5px; }
-
-.section_footer { text-align: center; font-size:15px; }
-
-.section_footer span p { font-style: italic; margin-top:20px;}
-
->>>>>>> d6b9f41379c3ba9233acb7a4122d515c4dbf84c9
